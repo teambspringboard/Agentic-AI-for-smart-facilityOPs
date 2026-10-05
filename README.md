@@ -33,7 +33,7 @@
 ---
 
 > [!IMPORTANT]
-> **FacilityOps AI** is a production-ready, fully verified **Enterprise Agentic Facility Operations Platform**. Across 4 completed engineering milestones, it orchestrates **5 specialized autonomous AI agents** under a centralized **Facility Intelligence Engine** — delivering real-time telemetry analytics, sub-system anomaly detection, condition-based predictive maintenance, space utilization optimization, threat forensics, and OpEx cost reduction for enterprise real estate portfolios.
+> **FacilityOps AI** is a production-ready, fully verified **Enterprise Agentic Facility Operations Platform**. Across 4 completed engineering milestones, it orchestrates **five specialized autonomous AI agents** under a centralized **Facility Intelligence Engine** — delivering real-time telemetry analytics, sub-system anomaly detection, condition-based predictive maintenance, space utilization optimization, threat forensics, and OpEx cost reduction for enterprise real estate portfolios.
 
 ---
 
